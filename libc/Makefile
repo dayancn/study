@@ -1,6 +1,6 @@
 # Makefile for these programmes
 
-EXEC := alarm
+EXEC := alarm mkdir rmdir
 
 all: $(EXEC)
 
