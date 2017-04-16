@@ -1,6 +1,6 @@
 # Makefile for these programmes
 
-EXEC := alarm mkdir rmdir time access
+EXEC := alarm mkdir rmdir time access readdir
 
 all: $(EXEC)
 
